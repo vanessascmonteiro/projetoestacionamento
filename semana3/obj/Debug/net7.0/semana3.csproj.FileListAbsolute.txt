@@ -1,0 +1,15 @@
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\projetoestacionamento\semana3\bin\Debug\net7.0\semana3.exe
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\projetoestacionamento\semana3\bin\Debug\net7.0\semana3.deps.json
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\projetoestacionamento\semana3\bin\Debug\net7.0\semana3.runtimeconfig.json
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\projetoestacionamento\semana3\bin\Debug\net7.0\semana3.dll
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\projetoestacionamento\semana3\bin\Debug\net7.0\semana3.pdb
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\projetoestacionamento\semana3\obj\Debug\net7.0\semana3.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\projetoestacionamento\semana3\obj\Debug\net7.0\semana3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\projetoestacionamento\semana3\obj\Debug\net7.0\semana3.AssemblyInfoInputs.cache
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\projetoestacionamento\semana3\obj\Debug\net7.0\semana3.AssemblyInfo.cs
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\projetoestacionamento\semana3\obj\Debug\net7.0\semana3.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\projetoestacionamento\semana3\obj\Debug\net7.0\semana3.dll
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\projetoestacionamento\semana3\obj\Debug\net7.0\refint\semana3.dll
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\projetoestacionamento\semana3\obj\Debug\net7.0\semana3.pdb
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\projetoestacionamento\semana3\obj\Debug\net7.0\semana3.genruntimeconfig.cache
+C:\Users\Vanessa\Desktop\Floripa Mais Tec\projetoestacionamento\semana3\obj\Debug\net7.0\ref\semana3.dll
